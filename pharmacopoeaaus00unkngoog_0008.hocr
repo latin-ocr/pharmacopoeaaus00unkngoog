@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoeaaus00unkngoog_0008.png"; bbox 0 0 1085 1483; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 230 254 800 352">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 230 254 800 352">
+     <span class='ocr_line' id='line_1_1' title="bbox 230 254 800 352; baseline -0.004 -28"><span class='ocrx_word' id='word_1_1' title='bbox 230 254 760 352; x_wconf 61' lang='lat' dir='ltr'><strong>fnnnmcuvnn</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 798 349 800 351; x_wconf 7' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 362 414 627 456">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 362 414 627 456">
+     <span class='ocr_line' id='line_1_2' title="bbox 362 414 627 456; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 362 414 627 456; x_wconf 77' lang='lat' dir='ltr'><strong>AUSTRIAOA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 138 784 823 1025">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 138 784 823 1025">
+     <span class='ocr_line' id='line_1_3' title="bbox 138 784 823 1025; baseline 0 458"><span class='ocrx_word' id='word_1_4' title='bbox 138 784 823 1025; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 251 1154 744 1211">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 251 1154 744 1211">
+     <span class='ocr_line' id='line_1_4' title="bbox 423 1154 569 1179; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 423 1154 456 1179; x_wconf 91' lang='lat' dir='ltr'><strong>Vl</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 463 1154 569 1178; x_wconf 80' lang='lat' dir='ltr'>ENNAE.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 251 1193 744 1211; baseline -0.002 0"><span class='ocrx_word' id='word_1_7' title='bbox 251 1194 302 1211; x_wconf 78' lang='lat' dir='ltr'>CAES.</span> <span class='ocrx_word' id='word_1_8' title='bbox 314 1194 363 1211; x_wconf 76' lang='lat' dir='ltr'><strong>nm.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 375 1194 438 1211; x_wconf 62' lang='lat' dir='ltr'><strong>Anu:</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 451 1194 478 1210; x_wconf 76' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 490 1194 572 1210; x_wconf 72' lang='lat' dir='ltr'>lMPEnn</span> <span class='ocrx_word' id='word_1_12' title='bbox 583 1193 744 1210; x_wconf 75' lang='lat' dir='ltr'>TYPOGRAPHIA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 474 1229 522 1261">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 474 1229 522 1261">
+     <span class='ocr_line' id='line_1_6' title="bbox 474 1229 522 1261; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 474 1229 522 1261; x_wconf 76' lang='lat'><strong>18—89.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 487 1268 509 1294">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 487 1268 509 1294">
+     <span class='ocr_line' id='line_1_7' title="bbox 487 1268 509 1294; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 487 1268 509 1294; x_wconf 73' lang='lat' dir='ltr'>B</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
